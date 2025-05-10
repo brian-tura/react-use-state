@@ -8,3 +8,21 @@ header {
   padding: 10px 15px;
   background-color: rgb(241, 241, 241);
 }
+
+.container{
+  max-width: 1750px;
+}
+
+.content{
+  margin: 20px 0px;
+}
+
+.card{
+  padding: 20px;
+  max-width: 800px;
+}
+
+.btn{
+  margin-right: 10px;
+}
+
